@@ -46,14 +46,14 @@ O modelo segue boas práticas de BI:
 ### 🔹 Visão Executiva – Prevenção de Perdas
 Apresenta indicadores consolidados e visão macro para tomada de decisão rápida.
 
-![Visão Geral](imagens/visao_geral.png)
+![Visão Geral](Imagens/visao_geral.png)
 
 ---
 
 ### 🔹 Análise Detalhada de Perdas
 Permite aprofundar a análise por loja, tipo de perda e período.
 
-![Análise Detalhada](imagens/analise_detalhada.png)
+![Análise Detalhada](Imagens/analise_detalhada.png)
 
 ---
 
@@ -79,4 +79,5 @@ Por se tratar de dados fictícios, alguns comportamentos podem não refletir int
 
 ## Autor
 Rafael Martins  
+
 Projeto desenvolvido para fins de portfólio e aprendizado em análise de dados.
